@@ -1,4 +1,4 @@
-# MongoDB - Exercise
+# MySQL - Exercise
 
 [![logopwdk.png](https://i.postimg.cc/66VC3Rgx/logopwdk.png)](https://postimg.cc/s1XMHB3T)
 
